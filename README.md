@@ -1,4 +1,4 @@
-"# FuzzyLP - An R package for Fuzzy Linear Programming
+# FuzzyLP - An R package for Fuzzy Linear Programming
 
 You can cite this package easily by copying the text of the _Cite this repository_ button on the right side.
 
