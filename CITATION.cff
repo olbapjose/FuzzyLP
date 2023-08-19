@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+url: "https://www.springerprofessional.de/en/fuzzylp-an-r-package-for-solving-fuzzy-linear-programming-proble/11044926"
+preferred-citation:
+  type: inbook
+  authors:
+  - family-names: "Villacorta"
+    given-names: "Pablo Jose"
+  - family-names: "Rabelo"
+    given-names: "Carlos Alberto"
+  - family-names: "Pelta"
+    given-names: "David Alejandro"
+  - family-names: "Verdegay"
+    given-names: "Jose Luis"
+    orcid: "https://orcid.org/0000-0003-2487-942X"
+  book: "Granular, Soft and Fuzzy Approaches for Intelligent Systems"
+  month: 9
+  start: 209
+  end: 230
+  title: "FuzzyLP: An R Package for Solving Fuzzy Linear Programming Problems"
+  doi: 10.1007/978-3-319-40314-4_11
+  year: 2017
