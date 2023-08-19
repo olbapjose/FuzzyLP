@@ -13,7 +13,7 @@ Date: 2023-08-19
 License: GPL (>= 3)
 ByteCompile: TRUE
 Imports: ROI, FuzzyNumbers, ROI.plugin.glpk
-URL: https://ccia.ugr.es/~pjvi/
+URL: https://github.com/olbapjose/FuzzyLP
 Suggests: R.rsp
 VignetteBuilder: R.rsp
 RoxygenNote: 7.2.3
