@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: If you use this software, please cite it as below.
 url: "https://www.springerprofessional.de/en/fuzzylp-an-r-package-for-solving-fuzzy-linear-programming-proble/11044926"
 preferred-citation:
-  type: "inbook"
+  type: "article"
   authors:
   - family-names: "Villacorta"
     given-names: "Pablo Jose"
