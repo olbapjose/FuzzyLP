@@ -13,7 +13,7 @@ preferred-citation:
   - family-names: "Verdegay"
     given-names: "Jose Luis"
     orcid: "https://orcid.org/0000-0003-2487-942X"
-  book: "Granular, Soft and Fuzzy Approaches for Intelligent Systems"
+  journal: "Granular, Soft and Fuzzy Approaches for Intelligent Systems"
   start: 209
   end: 230
   title: "FuzzyLP: An R Package for Solving Fuzzy Linear Programming Problems"
